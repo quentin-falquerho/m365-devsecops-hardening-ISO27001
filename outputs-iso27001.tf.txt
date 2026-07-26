@@ -1,0 +1,9 @@
+output "global_admin_role_id" {
+  value       = data.azuread_directory_role.global_administrator.object_id
+  description = "ID unique du rôle Administrateur Général pour le suivi d'audit ISO"
+}
+
+output "security_admin_role_id" {
+  value       = data.azuread_directory_role.security_administrator.object_id
+  description = "ID unique du rôle Administrateur de la Sécurité"
+}
