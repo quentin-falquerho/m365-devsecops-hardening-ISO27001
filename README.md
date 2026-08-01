@@ -1,3 +1,5 @@
+do the same for this
+
 # M365 DevSecOps Hardening - ISO 27001 Compliance
 
 ![GitHub Status](https://img.shields.io/badge/status-active-success.svg)
@@ -7,7 +9,7 @@
 
 ## 📌 About the Project
 
-This repository contains DevSecOps scripts and automated tenant hardening configurations for **Microsoft 365** environments. 
+This repository contains DevSecOps scripts and automated tenant hardening configurations for **Microsoft 365** environments. 
 
 The primary goal is to align your cloud infrastructure's security posture with the information security management standards of **ISO 27001**, establishing robust security controls, risk management, and systematic asset and access protection within cloud-based operations.
 
@@ -38,6 +40,6 @@ Before applying these configurations, ensure you have the following in place:
 ## ⚙️ Usage / Deployment
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/quentin-falquerho/m365-devsecops-hardening-ISO27001.git](https://github.com/quentin-falquerho/m365-devsecops-hardening-ISO27001.git)
-   cd m365-devsecops-hardening-ISO27001
+   ```bash
+   git clone [https://github.com/quentin-falquerho/m365-devsecops-hardening-ISO27001.git](https://github.com/quentin-falquerho/m365-devsecops-hardening-ISO27001.git)
+   cd m365-devsecops-hardening-ISO27001
